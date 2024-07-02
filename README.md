@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @JefferyBoulder
-- 👀 I’m interested in all things new and exciting. Virtualization, containerization, cloud infrastructure.
-- 🌱 I’m currently learning Azure Administration and Python development.  
+Hi there 👋 
+
+I’m Logan. I'm a network engineer with experience in the steel manufacturing industry.
+- I enjoy learning about network architechture and automation.
+- I'm planning to use this platform to document some of my automation and network modeling projects.
+- I'm currently interested in learning more about network fabrics and the value and flexibility they provide. 
 
 <!---
 JefferyBoulder/JefferyBoulder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
